@@ -1,0 +1,2 @@
+2024/08/15 16:17:27 logger.go:42: This is an info message from the main function.
+2024/08/15 16:17:27 logger.go:49: ERROR: This is an error message from the main function.

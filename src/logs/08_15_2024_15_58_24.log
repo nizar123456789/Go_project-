@@ -1,0 +1,3 @@
+2024/08/15 15:58:24 logger.go:32: This is an info message
+2024/08/15 15:58:24 logger.go:33: This is another message with more details
+[ CUSTOM_FORMAT ] 2024/08/15 15:58:24 logger.go:37: This is a message with custom format
