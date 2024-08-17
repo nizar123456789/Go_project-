@@ -1,0 +1,7 @@
+2024/08/17 16:23:18 logger.go:42: Successfully connected to the database
+2024/08/17 16:23:18 logger.go:42: Get the map of CustomerID to TotalCA
+2024/08/17 16:23:18 logger.go:42: Print randomly 10 entries from the customerMap
+2024/08/17 16:23:18 logger.go:42: CustomerData fetched successfully
+2024/08/17 16:23:18 logger.go:42: Get the top Customer done  
+2024/08/17 16:23:18 logger.go:42: print the  TOP N customer
+2024/08/17 16:23:18 logger.go:42: Filling the table test_export_Data is completed 

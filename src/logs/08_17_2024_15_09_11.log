@@ -1,0 +1,3 @@
+2024/08/17 15:09:11 logger.go:42: Successfully connected to the database
+2024/08/17 15:09:11 logger.go:42: Get the map of CustomerID to TotalCA
+2024/08/17 15:09:11 logger.go:42: Print randomly 10 entries from the customerMap
